@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![Shant0786 Banner Image](./banner.gif)
+![Humaun Al Rasel's Banner Image](./banner.gif)
 
 <!--Night Owl image-->
 <div>
@@ -26,7 +26,7 @@ _MERN FullStack (Developer / Programmer)_
 
 <!--Profile Count Badge-->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shant0786&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="shant0786" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=dev-rasels&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="dev-rasels" style="padding-right:20px;" />
 </p>
 
 ---
@@ -64,11 +64,11 @@ _MERN FullStack (Developer / Programmer)_
 <!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/shant0786">
+  <a href="https://github.com/dev-rasels">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shant0786&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shant0786&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=shant0786&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dev-rasels&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=dev-rasels&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=dev-rasels&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
@@ -82,16 +82,16 @@ _MERN FullStack (Developer / Programmer)_
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/shant0786">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=shant0786&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <a href="https://github.com/dev-rasels">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rasels&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/shant0786">
-          <img align="center" src="https://streak-stats.demolab.com?user=shant0786&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <a href="https://github.com/dev-rasels">
+          <img align="center" src="https://streak-stats.demolab.com?user=dev-rasels&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -100,16 +100,16 @@ _MERN FullStack (Developer / Programmer)_
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/shant0786/e-commerce-mern-app">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shant0786&repo=e-commerce-mern-app&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="e-commerce-mern-app" />
+        <a href="https://github.com/dev-rasels/e-commerce-mern-app">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-rasels&repo=e-commerce-mern-app&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="e-commerce-mern-app" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/shant0786">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=shant0786&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/dev-rasels">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=dev-rasels&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -120,7 +120,7 @@ _MERN FullStack (Developer / Programmer)_
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shant0786&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rasels&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -143,8 +143,8 @@ _MERN FullStack (Developer / Programmer)_
 <a href="https://www.instagram.com/rm.shanto786/" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width=50 height=50 alt="instragram" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.github.com/shant0786" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width=50 height=50 alt="shant0786" style="margin-bottom: 5px;" />
+<a href="https://www.github.com/dev-rasels" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width=50 height=50 alt="dev-rasels" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/humaun-al-rasel-3556a3261/" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
